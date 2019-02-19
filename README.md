@@ -1,4 +1,5 @@
-### WIP - Editing this version
+# Learn Wireframing
+
 # _Why_?
 
 In many cases sketching a wireframe of an idea is the _fastest_ way to share that idea with other people. A wireframe is also one of the best ways of developing/expanding your own thinking/understanding 💭 of the idea at _minimal_ cost (without having to write any code 👩‍💻).
