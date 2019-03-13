@@ -107,3 +107,17 @@ As the name suggests, this tool is custom built for creating mock ups and wirefr
 #### Cons ➖
 - Free Plan only offers 1 project (limited to 250 objects) and 5MB of storage
 - Not open source
+
+## Example
+
+Here's an example of a user sign up flow for https://www.clubsodaguide.com/ it
+made using draw.io. In this example a venue manager e.g. Pub landlord wants to
+have their venue listed on the Club Soda Guide. To do this they first go to
+'List A Venue', they then add their email address along with the other details of their venue and then once they've finished adding details about the venue they
+must verify their email. Once they've clicked the link in the verification email
+they are then asked to create a password. Once this process is complete a user
+can then login again as they have successfully set up an account to add new
+details or edit existing ones about their venue.
+
+![user sign up flow part 1](https://user-images.githubusercontent.com/16775804/54311893-711f4e00-45cd-11e9-9e1b-ca8cb06c070f.png)
+![user sign up flow part 2](https://user-images.githubusercontent.com/16775804/54311899-7aa8b600-45cd-11e9-87c2-21841bc8a2f8.png)
