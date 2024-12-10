@@ -115,9 +115,26 @@ made using draw.io. In this example a venue manager e.g. Pub landlord wants to
 have their venue listed on the Club Soda Guide. To do this they first go to
 'List A Venue', they then add their email address along with the other details of their venue and then once they've finished adding details about the venue they
 must verify their email. Once they've clicked the link in the verification email
-they are then asked to create a password. Once this process is complete a user
-can then login again as they have successfully set up an account to add new
+they are then asked to create a password. Once this process is complete a user can then login again as they have successfully set up an account to add new
 details or edit existing ones about their venue.
 
 ![user sign up flow part 1](https://user-images.githubusercontent.com/16775804/54311893-711f4e00-45cd-11e9-9e1b-ca8cb06c070f.png)
 ![user sign up flow part 2](https://user-images.githubusercontent.com/16775804/54311899-7aa8b600-45cd-11e9-87c2-21841bc8a2f8.png)
+
+
+### 5. Figma - [Figma](https://www.figma.com/)
+Figma is a powerful web-based design tool widely used for wireframing, UI/UX design, and prototyping. Known for its collaborative features, it allows teams to work on designs simultaneously in real time. Figma offers a free plan with extensive features, making it a popular choice for designers at all levels.
+
+#### Pros ➕
+- Real-time collaboration: Multiple users can edit a file simultaneously, making it ideal for teams.
+- Cross-platform: Being web-based, it works on any operating system with a browser, and offline editing is supported through its desktop app.
+- Free tier: Includes unlimited files, cloud storage, and collaboration, great for individual users and small teams.
+- Advanced prototyping tools: Interactive prototypes with animations and transitions, reducing reliance on additional tools.
+- Third-party plugins: Access a vast library of plugins for enhanced productivity and design capabilities.
+- Version history: Automatic versioning to review and revert to previous iterations.
+
+#### Cons ➖
+- Steeper learning curve: While beginner-friendly, the extensive features can be overwhelming for new users.
+- Free plan limitations: Restricted to three Figma files per project team in the free version.
+- Requires internet for most functions: While offline work is possible with the desktop app, it is limited compared to online functionality.
+- No native wireframe mode: Unlike dedicated wireframing tools, it doesn’t separate wireframing from full UI design, which might be overkill for simple wireframe tasks.
